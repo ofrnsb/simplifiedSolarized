@@ -1,0 +1,21 @@
+{
+  "name": "simplified-solarized",
+  "displayName": "simplified solarized",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "solarized",
+        "uiTheme": "vs-dark",
+        "path": "./themes/solarized-color-theme.json"
+      }
+    ]
+  }
+}
